@@ -6,7 +6,6 @@ body {
 }
 
 
-
 .header {
     justify-content: space-between;
     background-color: #1F2937;
@@ -20,7 +19,7 @@ body {
 
 .links {
     font-size: 18px;
-    color: #e5e7eb;
+    color: #7efc00;
     text-decoration: none;
     display: flex;
     margin: 0;
